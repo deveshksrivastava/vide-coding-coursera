@@ -9,3 +9,5 @@
 
 # SEQURITY CHECK
 Go through the code you just wrote and confirm it follows security best practices. Check that no sensitive data is left in the frontend, and that there are no vulnerabilities an attacker could exploit.
+
+Go through the code you just wrote and confirm it follows security best practices. Check that no sensitive data is left in the frontend, and that there are no vulnerabilities an attacker could exploit.

@@ -1,5 +1,8 @@
 node_modules/
 
+# MCP config (may contain secrets)
+.mcp.json
+
 # Claude Code — local session files
 .claude/
 .superpowers/
