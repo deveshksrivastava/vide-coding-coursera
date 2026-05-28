@@ -6,3 +6,6 @@
 5. At every step, give me a high-level explanation of what you changed.
 6. Keep every change simple and minimal. Avoid big rewrites.
 7. At the end, add a review section in todo.md summarising the changes.
+
+# SEQURITY CHECK
+Go through the code you just wrote and confirm it follows security best practices. Check that no sensitive data is left in the frontend, and that there are no vulnerabilities an attacker could exploit.
