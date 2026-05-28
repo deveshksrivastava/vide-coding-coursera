@@ -1,0 +1,14 @@
+# Claude Code — local session files
+.claude/
+.superpowers/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
